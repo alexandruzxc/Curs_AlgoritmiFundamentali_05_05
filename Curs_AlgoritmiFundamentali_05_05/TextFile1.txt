@@ -1,0 +1,22 @@
+﻿Problema nr1:
+
+Se da o multime de puncte in plan (n).
+Punctele formeaza un poligon P.
+Prin S(p) se intelege Poligonul obtinut unind mijlocul latorilor poligonului P.
+Sa se calculeze distanta dintre punctul G(centrul de greutate al poligonului initial) si un punct E.
+E se obtine prin formula de recurenta 
+P = S(p) pana cand A(p) < 1 ( aria lui P este mai mica decat 1) 
+si E este centrul de greutate al poligonului obtinut. 
+
+Se cere distanta dintre E si G ( G-ul e centrul de greutate al poligonului initial si E-ul e centrul de greutate obtinut prin metodata de recurenta) 
+d(E,G)= ?! 
+
+(raspunsul este 0)
+
+------------------------------------
+
+https://ro.wikipedia.org/wiki/Distan%C8%9B%C4%83_euclidian%C4%83 
+
+
+https://ro.wikipedia.org/wiki/Distan%C8%9B%C4%83_euclidian%C4%83
+
